@@ -1,1 +1,1 @@
-# Dijkstra-Visualizer
+Chinese Postman Algorithm Visualizer
